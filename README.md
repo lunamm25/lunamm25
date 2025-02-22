@@ -12,7 +12,7 @@
 - Inteligencia artificial y aprendizaje automático
 
 ## 📌 Proyectos Destacados
-- **Listas simples y doblemente enlazadas en java.
+- **Listas simples y doblemente enlazadas en java.**
 - **Software administración de pagos Umanizales** - Codigo para registrar y administrar los pagos de los profesores de la U manizales.
 
 
